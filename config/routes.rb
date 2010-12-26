@@ -1,8 +1,36 @@
 Todone::Application.routes.draw do
-  resources :todos
+  get "page/about"
+
+  get "page/contact"
+  get "page/home"
+
+  controller :sessions do
+    get 'login' => :new
+    post 'login' => :create
+    delete 'logout' => :destroy
+    get 'logout' => :destroy
+  end
+  
+  resources :todos do
+    collection do
+      get 'dosomething/:todo_id' => "todos#dosomething", :as => :dosomething
+      post 'dosomething'
+      post 'done'
+      get 'done'
+      post 'later'
+      get 'later'
+      get 'list'
+    end
+  end
 
   resources :users
-
+  
+  controller :users do
+    get '/register' => :new
+  end
+  
+  root :to => "page#home"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

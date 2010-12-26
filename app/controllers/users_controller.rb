@@ -1,4 +1,7 @@
 class UsersController < ApplicationController
+  skip_before_filter :authorize, :only => [:new, :create]
+  before_filter :restrict_to_development, :only => [:index, :show, :edit, :update, :destroy]
+  
   # GET /users
   # GET /users.xml
   def index
@@ -41,10 +44,10 @@ class UsersController < ApplicationController
   # POST /users.xml
   def create
     @user = User.new(params[:user])
-
     respond_to do |format|
       if @user.save
-        format.html { redirect_to(@user, :notice => 'User was successfully created.') }
+        session[:user_id] = @user.id
+        format.html { redirect_to(todos_url, :notice => 'You are succesfully registrered!') }
         format.xml  { render :xml => @user, :status => :created, :location => @user }
       else
         format.html { render :action => "new" }
