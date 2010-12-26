@@ -1,0 +1,9 @@
+%h2 Welcome
+- if flash[:notice].present?
+  #notice.notice 
+    = flash[:notice]
+:textile
+  To→done is a site for those who like getting things done, but don't want to waste time creating endless todo lists.
+= link_to "Login", :controller => 'sessions', :action => 'new'
+or
+= link_to "register", new_user_path

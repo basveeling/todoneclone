@@ -1,0 +1,13 @@
+- if flash[:notice].present?
+  #notice.notice 
+    = flash[:notice]
+- if flash[:alert].present?
+  .error 
+    = flash[:alert]
+- if @user.doing.present?
+  = render 'doingsomething'
+- else
+  %h2 Make a new todo
+  = render 'form'
+  %h2 Give me something to do
+  = render 'dosomething'

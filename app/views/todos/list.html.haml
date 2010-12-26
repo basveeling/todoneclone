@@ -1,0 +1,12 @@
+%h2 Listing todos
+
+- if @todos.empty?
+  %p You have nothing to do
+- else
+  %table.todolist
+    - @todos.each do |todo|
+      %tr
+      %td.title= link_to todo.description.capitalize, "/todos/dosomething/#{todo.id}"
+      %td= link_to 'Done→', todo, :method => :delete
+
+= link_to 'Make a new todo→', new_todo_path

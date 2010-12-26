@@ -1,0 +1,14 @@
+%h1
+  You need to 
+  = succeed '.' do
+    %b= @doing.tpdescription
+  
+  Go do it now,
+  = succeed '!' do
+    %b seriously
+%p
+  = link_to "I finished doing it →", :action => "done"
+  %br
+  = link_to "I will do it later →", :action => "later"
+  %br
+  = link_to "Make a new todo →", :action => "new"

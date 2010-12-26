@@ -1,0 +1,83 @@
+// This import applies a global reset to any page that imports this stylesheet.
+@import "blueprint/reset";
+// To configure blueprint, edit the partials/_base.sass file.
+@import "partials/base";
+// Import all the default blueprint modules so that we can access their mixins.
+@import "blueprint";
+// Import the non-default scaffolding module.
+@import "blueprint/scaffolding";
+
+// Generate the blueprint framework according to your configuration:
+@include blueprint;
+@include blueprint-scaffolding;
+
+$topmargin: 20px;
+$padding: 20px;
+
+
+#header {
+  height:70px;
+  margin-top: $topmargin;
+  h1 {
+    margin:0;
+    padding:0;
+  }
+}
+
+#menu {
+  margin-top:47px;
+  vertical-align:text-bottom;
+  ul {list-style-type:none;
+  margin:0;
+  padding:0;}
+  
+  li {
+    margin-right:20px;
+    display:inline-block;
+    a {
+      color:gray;
+      padding:0 15px;
+      display:inline-block;
+      border:1px solid #CACACA;
+      border-bottom:3px inset #999;
+    }
+    a:hover {
+      color:#222;
+    }
+  }
+}
+
+#content {
+
+}
+
+#footer {
+  margin-top: $topmargin;
+  text-align: center;
+}
+
+.todolist {
+  .title {
+    font-size:16px;
+  }
+}
+
+#notice {
+width:600px;
+}
+
+a {
+  padding:0 0 2px 0;
+  overflow:auto;
+  line-height:22px;
+  text-decoration:none;
+  border-bottom:1px dashed gray;
+}
+
+.login_form {
+  width:0%;
+}
+
+.field_with_errors {
+  display:inline;
+}

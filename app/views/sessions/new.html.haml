@@ -1,0 +1,22 @@
+%h2 Login
+- if flash[:notice].present?
+  #notice.notice 
+    = flash[:notice]
+- if flash[:alert].present?
+  #notice.error 
+    = flash[:alert]
+.todone_form
+  = form_tag do
+    %table.login_form
+      %tr
+        %td 
+          %label{:for => "name"}Name:
+        %td= text_field_tag :name, params[:name]
+      %tr
+        %td 
+          %label{:for => "password"}Password:
+        %td= password_field_tag :password, params[:password]
+      %tr
+        %td
+        %td= submit_tag "Login"
+        

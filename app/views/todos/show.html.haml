@@ -1,0 +1,17 @@
+%p= notice
+
+- if @todo.present? then
+  
+  %p
+    %b Description:
+    = @todo.description
+  %p
+    %b Time:
+    = @todo.time
+  
+  = link_to 'Edit', edit_todo_path(@todo) 
+  |
+  = link_to 'Back', todos_path
+
+- else 
+  %p Todo not found
