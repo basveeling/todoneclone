@@ -15,7 +15,7 @@ gem "compass", ">= 0.10.6"
 
 # Use unicorn as the web server
 # gem 'unicorn'
-
+gem 'pg'
 # Deploy with Capistrano
 # gem 'capistrano'
 
