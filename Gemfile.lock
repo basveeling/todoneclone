@@ -81,5 +81,6 @@ DEPENDENCIES
   RedCloth
   compass (>= 0.10.6)
   haml
+  i18n
   pg
   rails (= 3.0.3)!

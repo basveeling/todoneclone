@@ -8,7 +8,7 @@ gem 'rails', '3.0.3', :path => 'vendor/rails'
 #group :development do
 #  gem 'sqlite3-ruby', :require => 'sqlite3'
 # end
-
+gem "i18n"
 gem "haml"
 gem "compass", ">= 0.10.6"
 gem "RedCloth"
