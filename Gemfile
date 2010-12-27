@@ -11,7 +11,7 @@ gem 'rails', '3.0.3', :path => 'vendor/rails'
 
 gem "haml"
 gem "compass", ">= 0.10.6"
-#gem "RedCloth"
+gem "RedCloth"
 
 # Use unicorn as the web server
 # gem 'unicorn'
