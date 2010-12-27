@@ -10,11 +10,13 @@
     = csrf_meta_tag
   %body
     .container
-      #header.span-8
+      #header.span-6
         %h1 To→done
+        
+      #menubar.span-12.last
+      
         :textile
           *stop* making todo lists and *start* getting things done
-      #menubar.span-16.last
         %ul#menu
           %li
             = link_to "Home →", page_home_url
@@ -31,9 +33,9 @@
             %li
               = link_to "Register →", register_url
           
-      #content.span-24
+      #content.span-20
         = yield
-      #footer.span-24
+      #footer.span-20
         &copy;
         = Date.today.year
         %a{ :href => "http://www.basveeling.nl" } Bas Veeling

@@ -1,1 +1,13 @@
-1293383855
+1293482563
+TodosController	/home/bas/todone/app/controllers/todos_controller.rb	class TodosController 
+create	/home/bas/todone/app/controllers/todos_controller.rb	  def create
+destroy	/home/bas/todone/app/controllers/todos_controller.rb	  def destroy
+done	/home/bas/todone/app/controllers/todos_controller.rb	  def done
+dosomething	/home/bas/todone/app/controllers/todos_controller.rb	  def dosomething
+edit	/home/bas/todone/app/controllers/todos_controller.rb	  def edit
+index	/home/bas/todone/app/controllers/todos_controller.rb	  def index
+later	/home/bas/todone/app/controllers/todos_controller.rb	  def later
+list	/home/bas/todone/app/controllers/todos_controller.rb	  def list
+new	/home/bas/todone/app/controllers/todos_controller.rb	  def new
+show	/home/bas/todone/app/controllers/todos_controller.rb	  def show
+update	/home/bas/todone/app/controllers/todos_controller.rb	  def update

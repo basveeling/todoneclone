@@ -5,7 +5,12 @@ class TodosController < ApplicationController
     @todo = Todo.new
     @user = User.find_by_id(session[:user_id])
     if @user.doing.present?
-      @doing = Todo.find(@user.doing)
+      begin
+        @doing = Todo.find(@user.doing)
+      rescue
+        @user.doing = nil
+        @user.save
+      end
     end
     respond_to do |format|
       format.html # index.html.erb

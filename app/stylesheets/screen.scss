@@ -11,44 +11,74 @@
 @include blueprint;
 @include blueprint-scaffolding;
 
-$topmargin: 20px;
+$topmargin: 50px;
 $padding: 20px;
-
+$purple: #610099;
+body{
+  border-top:4px ridge $purple;
+}
 
 #header {
-  height:70px;
   margin-top: $topmargin;
+  
   h1 {
     margin:0;
-    padding:0;
+    padding:10px 20px;
+    line-height:75px;
+    background-color: $purple;
+    color:white;
+    display:inline;
+    font-family: Palatino, "Palatino Linotype", Georgia, "Century Gothic";
+    font-weight:bold;
   }
 }
 
+#menubar {
+  font-family:Georgia;
+  font-size:20px;
+  margin-top:$topmargin;
+
+text-align:center;
+  p {
+    margin: 0px;
+    border-bottom:1px dashed #CACACA;
+    padding-bottom:7px;
+    
+}
+}
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    
+  }
 #menu {
-  margin-top:47px;
+  margin-top:10px;
   vertical-align:text-bottom;
-  ul {list-style-type:none;
-  margin:0;
-  padding:0;}
-  
   li {
-    margin-right:20px;
+    margin-right:10px;
     display:inline-block;
     a {
-      color:gray;
-      padding:0 15px;
+      font:Georgia;
+      color:#222;
+      font-size:15px;
+      padding:3px 15px;
       display:inline-block;
       border:1px solid #CACACA;
-      border-bottom:3px inset #999;
+      border-bottom:3px inset $purple;
     }
     a:hover {
-      color:#222;
+      color:black;
     }
   }
 }
 
 #content {
-
+  margin-top:20px;
+  p {
+    margin-bottom:20px;
+}
 }
 
 #footer {
@@ -63,7 +93,6 @@ $padding: 20px;
 }
 
 #notice {
-width:600px;
 }
 
 a {
@@ -80,4 +109,9 @@ a {
 
 .field_with_errors {
   display:inline;
+}
+
+h2 {
+  margin-top:10px;
+  margin-bottom:0px;
 }
