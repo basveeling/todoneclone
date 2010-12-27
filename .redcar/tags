@@ -1,4 +1,4 @@
-1293486000
+1293486592
 8	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/response.rb	    cattr_accessor(:default_charset) { "utf-8" }
 A1	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/digest/md5.rb	        def A1(auth, password)
 A2	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/digest/md5.rb	        def A2(auth)
@@ -14,8 +14,6 @@ ALIASES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  
 ALL	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/frameworks.rb	    ALL =
 ALPHA	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/parsers/rfc2822.rb	      def ALPHA
 ALT_SEPARATOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/pathname.rb	      ALT_SEPARATOR =
-ANSI_ATTRIBUTES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		ANSI_ATTRIBUTES =
-ANSI_ATTRIBUTES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		ANSI_ATTRIBUTES =
 APP_DIRS_PATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/backtrace_cleaner.rb	    APP_DIRS_PATTERN =
 ARRAY_METHODS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    ARRAY_METHODS =
 ASSOCIATION_METHODS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/relation.rb	    ASSOCIATION_METHODS =
@@ -1104,7 +1102,6 @@ BITS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/gri
 BLACK	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    BLACK   =
 BLACK	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/color.rb	      BLACK      =
 BLACK	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/html.rb	      BLACK      =
-BLANK_LINE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/style.rb		BLANK_LINE =
 BLOCK_EXPR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/template/handlers/erb.rb	        BLOCK_EXPR =
 BLUE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    BLUE    =
 BLUE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/color.rb	      BLUE       =
@@ -1394,8 +1391,6 @@ CLEAN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/clean.rb	
 CLEAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    CLEAR   =
 CLEAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/color.rb	      CLEAR      =
 CLEAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/html.rb	      CLEAR      =
-CLEAR_CURRENT_LINE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		CLEAR_CURRENT_LINE =
-CLEAR_TO_EOL	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		CLEAR_TO_EOL       =
 CLOBBER	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/clean.rb	CLOBBER =
 COLORS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/logger.rb	    COLORS =
 COLORS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/exec.rb	      COLORS =
@@ -1403,7 +1398,6 @@ COMMA_SEPARATOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/
 COMMENT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    COMMENT         =
 COMMENT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      COMMENT =
 COMMENT_CHAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/engine.rb	    COMMENT_CHAR =
-COMMON_RSPEC_OPTS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb	COMMON_RSPEC_OPTS =
 COMMON_YEAR_DAYS_IN_MONTH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/time/calculations.rb	  COMMON_YEAR_DAYS_IN_MONTH =
 CONTACT_URL	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	    CONTACT_URL   =
 CONTENT_KEY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/xml_mini/jdom.rb	    CONTENT_KEY =
@@ -1419,12 +1413,6 @@ CONTROLLER_REGEXP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/
 CONTROL_CHAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/patterns.rb	    CONTROL_CHAR  =
 CONVERSION_TABLE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/number.rb	    CONVERSION_TABLE =
 CONVERTABLE_UNITS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/number.rb	    CONVERTABLE_UNITS =
-COVERAGE_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb	COVERAGE_DIR    =
-COVERAGE_MINIMUM	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb			COVERAGE_MINIMUM =
-COVERAGE_MINIMUM	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb			COVERAGE_MINIMUM =
-COVERAGE_PERCENTAGE_PATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		COVERAGE_PERCENTAGE_PATTERN =
-COVERAGE_REPORT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb	COVERAGE_REPORT =
-COVERAGE_TARGETDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb	COVERAGE_TARGETDIR =
 CP1252	/home/bas/todone/vendor/bundle/ruby/1.8/gems/builder-2.1.2/lib/builder/xchar.rb	    CP1252 =
 CRC_TABLE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/grid_builder.rb	    CRC_TABLE =
 CRLF	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/parsers/rfc2822.rb	      def CRLF
@@ -1988,11 +1976,9 @@ DEFAULT_ACTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/li
 DEFAULT_ACTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/logger.rb	    DEFAULT_ACTIONS =
 DEFAULT_ALIASES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators.rb	    DEFAULT_ALIASES =
 DEFAULT_APPROXIMATIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/backend/transliterator.rb	        DEFAULT_APPROXIMATIONS =
-DEFAULT_BASE_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_BASE_DIR     =
 DEFAULT_BEHAVIORS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/deprecation/behaviors.rb	    DEFAULT_BEHAVIORS =
 DEFAULT_CACHE_CONTROL	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/cache.rb	        DEFAULT_CACHE_CONTROL =
 DEFAULT_COMPRESS_LIMIT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache.rb	      DEFAULT_COMPRESS_LIMIT =
-DEFAULT_CONFIG	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_CONFIG =
 DEFAULT_CURRENCY_VALUES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/number_helper.rb	      DEFAULT_CURRENCY_VALUES =
 DEFAULT_DISPLAY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/display.rb	  DEFAULT_DISPLAY =
 DEFAULT_ENCODINGS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/xml_mini.rb	    DEFAULT_ENCODINGS =
@@ -2005,15 +1991,10 @@ DEFAULT_HOST	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/a
 DEFAULT_HOST	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-test-0.5.6/lib/rack/test.rb	    DEFAULT_HOST =
 DEFAULT_IGNORE_PATTERNS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    DEFAULT_IGNORE_PATTERNS =
 DEFAULT_IGNORE_PROCS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    DEFAULT_IGNORE_PROCS =
-DEFAULT_KEYWORDS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		DEFAULT_KEYWORDS =
-DEFAULT_LAYOUTS_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_LAYOUTS_DIR  =
-DEFAULT_LIB_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_LIB_DIR      =
 DEFAULT_LOCKING_COLUMN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/locking/optimistic.rb	        DEFAULT_LOCKING_COLUMN =
 DEFAULT_MESSAGE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb	    DEFAULT_MESSAGE =
 DEFAULT_MESSAGE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/exceptions.rb	    DEFAULT_MESSAGE =
 DEFAULT_MESSAGE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/redirecting.rb	    DEFAULT_MESSAGE =
-DEFAULT_METADATA	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_METADATA     =
-DEFAULT_NAME	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_NAME         =
 DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/test_case.rb	    DEFAULT_OPTIONS =
 DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/session/abstract_store.rb	      DEFAULT_OPTIONS =
 DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/engine.rb	    DEFAULT_OPTIONS =
@@ -2021,17 +2002,14 @@ DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack
 DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/session/memcache.rb	      DEFAULT_OPTIONS =
 DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/session/pool.rb	      DEFAULT_OPTIONS =
 DEFAULT_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators.rb	    DEFAULT_OPTIONS =
-DEFAULT_OUTPUT_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_OUTPUT_DIR   =
 DEFAULT_PARSERS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/params_parser.rb	    DEFAULT_PARSERS =
 DEFAULT_PREFIX	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/date_helper.rb	      DEFAULT_PREFIX =
 DEFAULT_RADIO_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/form_helper.rb	      DEFAULT_RADIO_OPTIONS     =
 DEFAULT_RAKEFILES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    DEFAULT_RAKEFILES =
 DEFAULT_REGEXP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/converter.rb	    DEFAULT_REGEXP =
 DEFAULT_REPLACEMENT_CHAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/backend/transliterator.rb	      DEFAULT_REPLACEMENT_CHAR =
-DEFAULT_RESOURCE_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_RESOURCE_DIR =
 DEFAULT_SEND_FILE_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/streaming.rb	    DEFAULT_SEND_FILE_OPTIONS =
 DEFAULT_SEP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/utils.rb	    DEFAULT_SEP =
-DEFAULT_SOURCE_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			DEFAULT_SOURCE_DIR   =
 DEFAULT_STRING_FORMAT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/big_decimal/conversions.rb	  DEFAULT_STRING_FORMAT =
 DEFAULT_TEXT_AREA_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/form_helper.rb	      DEFAULT_TEXT_AREA_OPTIONS =
 DEFAULT_TOKENIZER	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activemodel-3.0.3/lib/active_model/validations/length.rb	      DEFAULT_TOKENIZER =
@@ -2084,10 +2062,8 @@ DIV_CLASS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/prec
 DIV_ID	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    DIV_ID          =
 DLEXT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  DLEXT =
 DLEXT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  DLEXT =
-DOCFILES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb	DOCFILES =
 DOCROOT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/test/spec_directory.rb	  DOCROOT =
 DOCROOT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/test/spec_file.rb	  DOCROOT =
-DOCSLIB	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb	DOCSLIB =
 DOCTYPE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    DOCTYPE         =
 DOCTYPE_REGEX	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    DOCTYPE_REGEX =
 DOMAIN_REGEXP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/cookies.rb	      DOMAIN_REGEXP =
@@ -2888,7 +2864,6 @@ EXCEPTION_MAP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml
 EXCEPTION_MAP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/sass/engine_test.rb	  EXCEPTION_MAP =
 EXISTINGFILE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/test/test_definitions.rb	  EXISTINGFILE =
 EXISTS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/mem_cache_store.rb	        EXISTS      =
-EXPECTED_TRACE_OUTPUT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/pgconn_spec.rb		EXPECTED_TRACE_OUTPUT =
 EXPR_NAMES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/parser.rb	      EXPR_NAMES =
 EXPR_NAMES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/parser.rb	      EXPR_NAMES =
 EXTENSION_LOOKUP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/mime_type.rb	  EXTENSION_LOOKUP =
@@ -2992,7 +2967,6 @@ Erb	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/genera
 Erb	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/erb/controller/controller_generator.rb	module Erb
 Erb	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/erb/mailer/mailer_generator.rb	module Erb
 Erb	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/erb/scaffold/scaffold_generator.rb	module Erb
-ErbFilter	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		class ErbFilter 
 ErbTests	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/html2haml/erb_tests.rb	module ErbTests
 ErboutEnhancer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/enhancer.rb	  module ErboutEnhancer
 ErboutEruby	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/engine/enhanced.rb	  class ErboutEruby 
@@ -3316,7 +3290,6 @@ FileUpdateChecker	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0
 FileUtils	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	module FileUtils
 Files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/files.rb	  module Files
 FilesystemConflict	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/errors.rb	  class FilesystemConflict 
-Filter	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			class Filter
 FilterParameters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/filter_parameters.rb	    module FilterParameters
 Filters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/filters.rb	  module Filters
 Filters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/filters.rb	  module Filters
@@ -3404,7 +3377,6 @@ Functions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/test_hel
 GB	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/GB.rb	    module GB
 GB__m__Eire	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/GB__m__Eire.rb	    module GB__m__Eire
 GEM_NAME	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/version.rb	  GEM_NAME =
-GEM_PUBHOST	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb	GEM_PUBHOST =
 GET	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/request.rb	    def GET
 GET	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/request.rb	    def GET
 GET	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/test/testrequest.rb	    def GET(path, header={})
@@ -3445,7 +3417,6 @@ GMT__p__6	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/
 GMT__p__7	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Etc/GMT__p__7.rb	      module GMT__p__7
 GMT__p__8	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Etc/GMT__p__8.rb	      module GMT__p__8
 GMT__p__9	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Etc/GMT__p__9.rb	      module GMT__p__9
-GOOD_INDENT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/style.rb		GOOD_INDENT =
 GREATER	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      GREATER =
 GREEN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    GREEN   =
 GREEN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/color.rb	      GREEN      =
@@ -3458,7 +3429,6 @@ Gaza	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/defin
 GcRuns	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/testing/performance.rb	          class GcRuns 
 GcTime	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/testing/performance.rb	          class GcTime 
 GemPackageTask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/gempackagetask.rb	  class GemPackageTask 
-GenTask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		class GenTask 
 General	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Mexico/General.rb	      module General
 GeneratableRegexp	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/generatable_regexp.rb	  class GeneratableRegexp 
 GenerateGridBackground	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/commands/generate_grid_background.rb	    class GenerateGridBackground 
@@ -3581,8 +3551,6 @@ HEADER_FOOTER_PATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/
 HEADER_LINE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/patterns.rb	    HEADER_LINE   =
 HELP_MAPPINGS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	  HELP_MAPPINGS       =
 HEXCOLOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      HEXCOLOR =
-HG_DOTDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb		HG_DOTDIR =
-HG_STORE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb		HG_STORE  =
 HST	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/HST.rb	    module HST
 HTML	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/formatters/html.rb	module RedCloth::Formatters::HTML
 HTML	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/vendor/html-scanner.rb	module HTML
@@ -3880,14 +3848,12 @@ IANA_URL	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/t
 ID	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/session/abstract/id.rb	      class ID
 IDENT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      IDENT    =
 IDENT_OP_NAMES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/lexer.rb	      IDENT_OP_NAMES =
-IGNORE_FILE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb		IGNORE_FILE =
 IGNORE_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/mapper.rb	        IGNORE_OPTIONS =
 IMAP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/network/retriever_methods/imap.rb	  class IMAP 
 IMPORTANT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      IMPORTANT =
 INCLUDED	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/renderers.rb	      INCLUDED =
 INCLUDES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      INCLUDES       =
 INDEX	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/doc/jamis.rb	INDEX =
-INDEX_PATH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			INDEX_PATH =
 INFO	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/buffered_logger.rb	      INFO    =
 INHERITABLE_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/deprecated_mapper.rb	      INHERITABLE_OPTIONS =
 INPUT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/test/test-main.rb	  INPUT =
@@ -4111,8 +4077,6 @@ Jujuy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/defi
 Juneau	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Juneau.rb	      module Juneau
 KD	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/digest/md5.rb	        def KD(secret, data)
 KEY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/prefix.rb	    KEY =
-KEYWORDED_FILEDIRS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		KEYWORDED_FILEDIRS =
-KEYWORDED_FILEPATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		KEYWORDED_FILEPATTERN =
 KILOBYTE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/numeric/bytes.rb	  KILOBYTE =
 KNOWN_ATTRIBUTE_TYPES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/schema.rb	    KNOWN_ATTRIBUTE_TYPES =
 KNOWN_CONFIG_LOCATIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/configuration/helpers.rb	      KNOWN_CONFIG_LOCATIONS =
@@ -4300,7 +4264,6 @@ MAJOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/version.
 MAJOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/polyglot-0.3.1/lib/polyglot/version.rb	    MAJOR =
 MAJOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/version.rb	    MAJOR =
 MAJOR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/version.rb	    MAJOR =
-MANUALOUTPUTDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		MANUALOUTPUTDIR =
 MAPPING	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/values/time_zone.rb	    MAPPING =
 MATCH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script.rb	    MATCH =
 MAX_BUFFER_SIZE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/buffered_logger.rb	    MAX_BUFFER_SIZE =
@@ -4346,7 +4309,6 @@ MOZ_ANY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/r
 MST	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/MST.rb	    module MST
 MST7MDT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/MST7MDT.rb	    module MST7MDT
 MULTILINE_CHAR_VALUE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    MULTILINE_CHAR_VALUE =
-MULTILINE_PROMPT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		MULTILINE_PROMPT =
 MULTIPART_BOUNDARY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/utils.rb	      MULTIPART_BOUNDARY =
 MULTIPART_BOUNDARY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-test-0.5.6/lib/rack/test.rb	    MULTIPART_BOUNDARY =
 MULTI_VALUE_METHODS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/relation.rb	    MULTI_VALUE_METHODS =
@@ -4486,7 +4448,6 @@ ManifestInstaller	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/li
 ManifestInstaller	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/app_integration/stand_alone/installer.rb	    class ManifestInstaller 
 ManifestInstaller	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/installers/manifest_installer.rb	    class ManifestInstaller 
 Manila	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Manila.rb	      module Manila
-Manual	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb	module Manual
 Mapper	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/mapper.rb	    class Mapper
 Mapping	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/mapper.rb	      class Mapping 
 Maputo	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Africa/Maputo.rb	      module Maputo
@@ -4526,7 +4487,6 @@ Mendoza	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/de
 Mendoza	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Mendoza.rb	      module Mendoza
 Menominee	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Menominee.rb	      module Menominee
 MerbBootLoader	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/plugin/merb.rb	  class Sass::Plugin::MerbBootLoader 
-MercurialHelpers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb		module MercurialHelpers
 Merida	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Merida.rb	      module Merida
 Message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionmailer-3.0.3/lib/action_mailer/tmail_compat.rb	  class Message
 Message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/message.rb	  class Message
@@ -4716,7 +4676,6 @@ NL	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	
 NMCHAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      NMCHAR   =
 NMSTART	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      NMSTART  =
 NODE_TYPE_NAMES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/xml_mini/jdom.rb	    NODE_TYPE_NAMES =
-NOFORK_PLATFORMS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		NOFORK_PLATFORMS =
 NONASCII	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      NONASCII =
 NONE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/grid_builder.rb	    NONE    =
 NORMALIZATION_FORMS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/multibyte/unicode.rb	      NORMALIZATION_FORMS =
@@ -4943,7 +4902,6 @@ Object	/home/bas/todone/vendor/bundle/ruby/1.8/gems/builder-2.1.2/lib/blankslate
 Object	/home/bas/todone/vendor/bundle/ruby/1.8/gems/builder-2.1.2/test/preload.rb	class Object
 Object	/home/bas/todone/vendor/bundle/ruby/1.8/gems/builder-2.1.2/test/testblankslate.rb	class Object 
 Object	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers.rb	class Object
-Object	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb		class Object
 Object	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/rake_compat.rb	class Object 
 ObjectSpace	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/testing/isolation.rb	  class Test::Unit::Collector::ObjectSpace
 Objects	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/testing/performance.rb	          class Objects 
@@ -5051,8 +5009,6 @@ Ouagadougou	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinf
 OuterJoin	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/deprecated.rb	  OuterJoin =
 OuterJoin	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/nodes/outer_join.rb	    class OuterJoin 
 OutputBuffer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/template/handlers/erb.rb	  class OutputBuffer 
-P	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb			def P(namespace, name = nil)
-PAGE_WITH_YAML_HEADER	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			PAGE_WITH_YAML_HEADER =
 PARAMETERS_KEY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb	      PARAMETERS_KEY =
 PARENT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/rule_node.rb	    PARENT =
 PARSEABLE_DATA_MEDIA_TYPES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/request.rb	    PARSEABLE_DATA_MEDIA_TYPES =
@@ -5097,7 +5053,6 @@ PRIORITY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/encod
 PRIORITY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/encodings/binary.rb	      PRIORITY =
 PRIORITY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/encodings/quoted_printable.rb	      PRIORITY =
 PRIORITY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/encodings/transfer_encoding.rb	      PRIORITY =
-PROBLEM_FILES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/style.rb		PROBLEM_FILES =
 PROPERTY_CHAR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/engine.rb	    PROPERTY_CHAR  =
 PROPERTY_NEW	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/engine.rb	    PROPERTY_NEW =
 PROPERTY_NEW_MATCHER	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/engine.rb	    PROPERTY_NEW_MATCHER =
@@ -5151,9 +5106,7 @@ Pacific__m__New	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/t
 PackageSelectionItem	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	  class PackageSelectionItem 
 PackageSelectionItem	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  class PackageSelectionItem 
 PackageTask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/packagetask.rb	  class PackageTask 
-Page	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		class Page
 Page	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/doc/jamis.rb	module Page
-PageCatalog	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		class PageCatalog
 Pages	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/caching/pages.rb	    module Pages
 Pago_Pago	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Pacific/Pago_Pago.rb	      module Pago_Pago
 Palau	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Pacific/Palau.rb	      module Palau
@@ -5224,7 +5177,6 @@ Pathname	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/li
 Pathname	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/pathname.rb	  class Pathname
 Pathname	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/pathname.rb	  class Pathname 
 Pathname	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/profile/prof-pathname.rb	class Pathname
-Pathname	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/191_compat.rb		class Pathname
 Paths	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/configuration/paths.rb	module Compass::Configuration::Paths
 Paths	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/paths.rb	  module Paths
 Patterns	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/patterns.rb	  module Patterns
@@ -5246,7 +5198,6 @@ Person	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/example
 Perth	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Australia/Perth.rb	      module Perth
 Pessimistic	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/locking/pessimistic.rb	    module Pessimistic
 Petersburg	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Indiana/Petersburg.rb	        module Petersburg
-PgTestingHelpers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb	module PgTestingHelpers
 Phnom_Penh	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Phnom_Penh.rb	      module Phnom_Penh
 Phoenix	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Phoenix.rb	      module Phoenix
 PhpGenerator	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/engine/ephp.rb	  module PhpGenerator
@@ -5393,7 +5344,6 @@ RAILS_ROOT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/linked_
 RAKEVERSION	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	RAKEVERSION =
 RANGE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      RANGE    =
 RANGE_FORMATS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/range/conversions.rb	  RANGE_FORMATS =
-RCOV_EXCLUDES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb	RCOV_EXCLUDES      =
 RDoc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/doc/jamis.rb	module RDoc
 RDocTask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/rdoctask.rb	  class RDocTask 
 RED	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    RED     =
@@ -5410,10 +5360,7 @@ REJECT_PATTERNS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setu
 REJECT_PATTERNS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  REJECT_PATTERNS =
 REJECT_PATTERNS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	             REJECT_PATTERNS =
 REJECT_PATTERNS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  REJECT_PATTERNS =
-RELEASE_ANNOUNCE_FILE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb	RELEASE_ANNOUNCE_FILE =
 RELEASE_CANDIDATE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/version.rb	    RELEASE_CANDIDATE =
-RELEASE_NOTES_FILE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb	RELEASE_NOTES_FILE    =
-RELEASE_VERSION_PATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		RELEASE_VERSION_PATTERN =
 RENDERERS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/renderers.rb	    RENDERERS =
 RENDER_TEMPLATE_PATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/backtrace_cleaner.rb	    RENDER_TEMPLATE_PATTERN =
 RESCUES_TEMPLATE_PATH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/show_exceptions.rb	    RESCUES_TEMPLATE_PATH =
@@ -5661,7 +5608,6 @@ RakeApp	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/classic
 RakeCompat	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/rake_compat.rb	  module RakeCompat
 RakeFileUtils	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	module RakeFileUtils
 RakeTask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/spec/rake_compat_spec.rb	class RakeTask 
-RakefileHelpers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb	module RakefileHelpers
 Range	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/enumerable.rb	class Range 
 Range	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/range/blockless_step.rb	class Range
 Range	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/range/conversions.rb	class Range
@@ -5793,7 +5739,6 @@ Rfc4646	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/locale/
 Riga	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Europe/Riga.rb	      module Riga
 Rio_Branco	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Rio_Branco.rb	      module Rio_Branco
 Rio_Gallegos	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Argentina/Rio_Gallegos.rb	        module Rio_Gallegos
-RipperParser	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb			class YARD::Parser::Ruby::RipperParser 
 Riyadh	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Riyadh.rb	      module Riyadh
 Riyadh87	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Riyadh87.rb	      module Riyadh87
 Riyadh87	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Mideast/Riyadh87.rb	      module Riyadh87
@@ -5886,12 +5831,10 @@ SINGLE_VALUE_METHODS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3
 SLASH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/prefix.rb	    SLASH        =
 SMTP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/core_extensions/smtp.rb	  class SMTP
 SMTP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/network/delivery_methods/smtp.rb	  class SMTP
-SMTP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb	class Net::SMTP
 SOURCE_CODE_RADIUS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/template/error.rb	      SOURCE_CODE_RADIUS =
 SPACE_MARK	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/loaders/makefile.rb	    SPACE_MARK =
 SPECIAL_CHARACTERS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    SPECIAL_CHARACTERS   =
 SPECIAL_RETURN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    SPECIAL_RETURN =
-SPEC_FILES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb	SPEC_FILES       =
 SQLite	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/visitors/sqlite.rb	    class SQLite 
 SQLite3Adapter	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/sqlite3_adapter.rb	    class SQLite3Adapter 
 SQLiteAdapter	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/sqlite_adapter.rb	    class SQLiteAdapter 
@@ -5932,12 +5875,6 @@ STRUCTURED_FIELDS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/m
 STYLE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/doc/jamis.rb	STYLE =
 SUBSTRINGMATCH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      SUBSTRINGMATCH =
 SUFFIXMATCH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      SUFFIXMATCH    =
-SVN_BRANCHES_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		SVN_BRANCHES_DIR =
-SVN_DOTDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		SVN_DOTDIR       =
-SVN_ENTRIES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		SVN_ENTRIES      =
-SVN_RELEASES_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		SVN_RELEASES_DIR =
-SVN_TAGS_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		SVN_TAGS_DIR     =
-SVN_TRUNK_DIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		SVN_TRUNK_DIR    =
 SYMBOL_TO_STATUS_CODE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/utils.rb	    SYMBOL_TO_STATUS_CODE =
 SYMLOOP_MAX	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/pathname.rb	    SYMLOOP_MAX =
 SafeBuffer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/string/output_safety.rb	  class SafeBuffer 
@@ -6274,7 +6211,6 @@ Subprocess	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/
 Subscriber	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/notifications/fanout.rb	      class Subscriber 
 SubsetMap	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/util/subset_map.rb	    class SubsetMap
 SubsetMapTest	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/util/subset_map_test.rb	class SubsetMapTest 
-SubversionHelpers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		module SubversionHelpers
 Sum	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/nodes/sum.rb	    class Sum 
 SuperSecretPlugin	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/spec/register_spec.rb	class SuperSecretPlugin 
 Support	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/support.rb	module FSSM::Support
@@ -6299,10 +6235,7 @@ SyntaxNodeSpec	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/spec/r
 Syowa	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Antarctica/Syowa.rb	      module Syowa
 Sys	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/sys.rb	module Sys
 TAG	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/version.rb	    TAG =
-TAG_TIMESTAMP_FORMAT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		TAG_TIMESTAMP_FORMAT =
-TAG_TIMESTAMP_PATTERN	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb		TAG_TIMESTAMP_PATTERN =
 TARGETS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/benchmark/bench.rb	  TARGETS =
-TAR_OPTS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		TAR_OPTS =
 TASKS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	  TASKS =
 TASKS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  TASKS =
 TASKS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  TASKS =
@@ -6333,7 +6266,6 @@ TCTimezoneTransitionInfo	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3
 TCTimezoneUTC	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/test/tc_timezone_utc.rb	class TCTimezoneUTC 
 TEMPLATE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/showexceptions.rb	TEMPLATE =
 TEMPLATE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/showstatus.rb	TEMPLATE =
-TEMPLATEDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		TEMPLATEDIR =
 TEMPLATES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/template_test.rb	  TEMPLATES =
 TEMPLATE_PATH	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/template_test.rb	  TEMPLATE_PATH =
 TERABYTE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/numeric/bytes.rb	  TERABYTE =
@@ -6342,13 +6274,11 @@ TESTDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/test/test.rb	 
 TESTDIR	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  TESTDIR =
 TESTING_REQUIRE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/test/test_application.rb	TESTING_REQUIRE =
 TEST_FILE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/polyglot-0.3.1/test/test_polyglot.rb	  TEST_FILE =
-TEST_FILES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/testing.rb	TEST_FILES       =
 TEST_REQUIRES_FILE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/polyglot-0.3.1/test/test_polyglot.rb	  TEST_REQUIRES_FILE =
 TEST_TYPES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/code_statistics.rb	  TEST_TYPES =
 TEXT	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/patterns.rb	    TEXT          =
 TEXT_REGEXP	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/html.rb	    TEXT_REGEXP =
 THOR_RESERVED_WORDS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	  THOR_RESERVED_WORDS =
-TIDY_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			TIDY_OPTIONS =
 TILDE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/rx.rb	      TILDE =
 TIMES	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/examples/performance.rb	TIMES =
 TINY	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/version.rb	    TINY  =
@@ -7201,7 +7131,6 @@ TextHelper	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/hel
 Textile	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/filters.rb	    module Textile
 TextileDoc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/textile_doc.rb	  class TextileDoc 
 TextileExtensions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rails_guides/textile_extensions.rb	  module TextileExtensions
-TextileFilter	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb		class TextileFilter 
 Thimbu	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Thimbu.rb	      module Thimbu
 Thimphu	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Thimphu.rb	      module Thimphu
 Thin	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/handler/thin.rb	    class Thin
@@ -7545,7 +7474,6 @@ Variable0	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/examples/la
 Variable1	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/examples/lambda_calculus/lambda_calculus.rb	  module Variable1
 VariableNode	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/variable_node.rb	    class VariableNode 
 Vatican	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Europe/Vatican.rb	      module Vatican
-VerifyTask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb	class VerifyTask 
 Version	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	  Version   =
 Version	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  Version   =
 Version	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/vendor/html-scanner/html/version.rb	  module Version 
@@ -7653,8 +7581,6 @@ XssMods	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helper
 YAML	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	  module YAML 
 YAML_MAPPING	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/big_decimal/conversions.rb	  YAML_MAPPING =
 YAML_TAG	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/big_decimal/conversions.rb	  YAML_TAG =
-YARDOC_CACHE	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb		YARDOC_CACHE =
-YARD_OPTIONS	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb		YARD_OPTIONS =
 YELLOW	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    YELLOW  =
 YELLOW	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/color.rb	      YELLOW     =
 YELLOW	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/html.rb	      YELLOW     =
@@ -7664,7 +7590,6 @@ Yakutsk	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/de
 Yaml	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/json/backends/yaml.rb	      module Yaml
 Yancowinna	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Australia/Yancowinna.rb	      module Yancowinna
 Yap	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Pacific/Yap.rb	      module Yap
-YardGlobals	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb		module YardGlobals
 Year0	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/parsers/rfc2822.rb	    module Year0
 Yekaterinburg	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/Asia/Yekaterinburg.rb	      module Yekaterinburg
 Yellowknife	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/definitions/America/Yellowknife.rb	      module Yellowknife
@@ -8710,8 +8635,6 @@ annoted_source_code	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.
 announce	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/migration.rb	      def announce(message)
 anonymous?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/module/anonymous.rb	  def anonymous?
 another_late_addition	/home/bas/todone/vendor/bundle/ruby/1.8/gems/builder-2.1.2/test/testblankslate.rb	  def another_late_addition
-ansi_code	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def ansi_code( *attributes )
-ansi_code	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def ansi_code( *attributes )
 any	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionmailer-3.0.3/lib/action_mailer/collector.rb	    def any(*args, &block)
 any	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/mime_responds.rb	      def any(*args, &block)
 any	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/templates/public/javascripts/prototype.js	function any(iterator, context)
@@ -8869,7 +8792,6 @@ ascii?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/typ
 ascii_only?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/core_extensions/string.rb	    def ascii_only?
 ask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/basic.rb	      def ask(statement, color=nil)
 ask	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/html.rb	      def ask(statement, color=nil)
-ask_for_confirmation	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def ask_for_confirmation( description, abort_on_decline=true )
 assert	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/lint.rb	      def assert(message, &block)
 assert_action_performed	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/test/command_line_helper.rb	  def assert_action_performed(action, path)
 assert_associative	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/sass/script_conversion_test.rb	  def self.assert_associative(op_name, sibling_name)
@@ -9229,7 +9151,6 @@ base	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/bas
 base	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/spec/actions/empty_directory_spec.rb	  def base
 base64	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/secure_random.rb	      def self.base64(n=nil)
 base_class	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/base.rb	      def base_class
-base_dir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_accessor :base_dir,
 base_directory	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass.rb	  def base_directory
 base_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/base.rb	        def self.base_name
 base_path	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/base.rb	    attr_accessor :base_path, :assigns, :template_extension, :lookup_context
@@ -9242,7 +9163,6 @@ basename	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass
 basename	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/pathname.rb	    def basename
 basename	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/pathname.rb	    def basename
 basename	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	        def basename
-basepath	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :basepath
 basic?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/basic.rb	        def basic?
 basic_authorize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-test-0.5.6/lib/rack/test.rb	      def basic_authorize(username, password)
 batch_order	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/relation/batches.rb	    def batch_order
@@ -9679,7 +9599,6 @@ case_sensitive_equality_operator	/home/bas/todone/vendor/bundle/ruby/1.8/gems/ac
 case_sensitive_equality_operator	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/mysql_adapter.rb	      def case_sensitive_equality_operator
 casefold?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/vendor/regin/regin/atom.rb	    def casefold?
 casefold?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/vendor/regin/regin/expression.rb	    def casefold?
-catalog	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :catalog
 cattr_accessor	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/class/attribute_accessors.rb	  def cattr_accessor(*syms, &blk)
 cattr_reader	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/class/attribute_accessors.rb	  def cattr_reader(*syms)
 cattr_writer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/class/attribute_accessors.rb	  def cattr_writer(*syms)
@@ -9897,7 +9816,6 @@ cleanup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/act
 cleanup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/file_store.rb	      def cleanup(options = nil)
 cleanup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/memory_store.rb	      def cleanup(options = nil)
 cleanup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/strategy/local_cache.rb	        def cleanup(options = nil) 
-cleanup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def cleanup( source )
 cleanup_view_runtime	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/instrumentation.rb	    def cleanup_view_runtime 
 cleanup_view_runtime	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/railties/controller_runtime.rb	      def cleanup_view_runtime
 clear	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/session/abstract_store.rb	        def clear
@@ -10034,8 +9952,6 @@ color	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sa
 color	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/exec.rb	      def color(color, str)
 color	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/lexer.rb	      def color
 color_stops	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/gradient_support.rb	    def color_stops(*args)
-colorize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def colorize( *args )
-colorize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def colorize( *args )
 colorize_logging	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/base.rb	      alias :colorize_logging
 colorize_logging	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/base.rb	      def colorize_logging(*args)
 colorize_logging	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber.rb	    mattr_accessor :colorize_logging
@@ -10252,7 +10168,6 @@ config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/test/test_select_
 config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/installers/template_context.rb	      def config
 config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n.rb	    def config
 config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def config(key)
-config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :config
 config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/application/configurable.rb	      def config
 config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/engine/configurable.rb	        def config
 config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/engine/configurable.rb	      def config
@@ -10564,7 +10479,6 @@ copy_blame!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib
 copy_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/actions/file_manipulation.rb	    def copy_file(source, *args, &block)
 copy_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/sys.rb	  def copy_files(wildcard, dest_dir)
 copy_instance_variables_from	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/object/instance_variables.rb	  def copy_instance_variables_from(object, exclude = []) 
-copy_resource	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def copy_resource( task )
 copy_session_variables!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/testing/integration.rb	      def copy_session_variables! 
 copy_stylesheets_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/stylesheets/stylesheets_generator.rb	      def copy_stylesheets_file
 copy_table	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/sqlite_adapter.rb	        def copy_table(from, to, options = {}) 
@@ -11132,8 +11046,6 @@ defaults=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/local
 defaults=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/generatable_regexp.rb	      def defaults=(defaults)
 defer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/templates/public/javascripts/prototype.js	function defer()
 define	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/schema.rb	    def self.define(info={}, &block)
-define	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def define
-define	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		def define
 define	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/templates/public/javascripts/prototype.js	function define(D)
 define	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/gempackagetask.rb	    def define
 define	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/packagetask.rb	    def define
@@ -11225,8 +11137,6 @@ delete_entry	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/li
 delete_entry	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/strategy/local_cache.rb	          def delete_entry(key, options)
 delete_entry	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/strategy/local_cache.rb	          def delete_entry(key, options) 
 delete_existing_fixtures	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	  def delete_existing_fixtures
-delete_extra_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def delete_extra_files( filelist )
-delete_extra_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def delete_extra_files( filelist )
 delete_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/test/filecreation.rb	  def delete_file(name)
 delete_if	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/ordered_hash.rb	      def delete_if
 delete_if	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/vendor/multimap/multimap.rb	  def delete_if
@@ -11294,7 +11204,6 @@ deprecation_horizon	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3
 deprecation_message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/deprecation/reporting.rb	        def deprecation_message(callstack, message = nil)
 deprojectize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/configuration/helpers.rb	      def deprojectize(path, project_path = nil)
 dequote	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/digest/params.rb	        def self.dequote(str) 
-derivatives	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb				class << self; attr_reader :derivatives; end
 derive_class_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	        def derive_class_name
 derive_class_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	        def derive_class_name
 derive_class_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	        def derive_class_name
@@ -11533,7 +11442,6 @@ do_extend	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/tree
 do_extend	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/rule_node.rb	    def do_extend(extends)
 do_foo	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/sass/callbacks_test.rb	  def do_foo
 do_foo	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/sass/callbacks_test.rb	  def do_foo
-do_ssl_start	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb		def do_ssl_start( helodomain, user, secret, authtype )
 doc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/app_generator.rb	    def doc
 docs	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	    attr_accessor :docs
 docs=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	    def docs=(d)
@@ -11574,7 +11482,6 @@ down	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sta
 down?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/migration.rb	      def down?
 down_with_benchmarks	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/migration.rb	      def down_with_benchmarks 
 downcase	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/multibyte/chars.rb	      def downcase
-download	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def download( sourceuri, targetfile=nil )
 download	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/commands/plugin.rb	  def download(link)
 dquote	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/utilities.rb	    def dquote( str )
 draggable	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/scriptaculous_helper.rb	          def draggable(id, options = {})
@@ -11704,10 +11611,7 @@ eager_loading?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/l
 edge	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/visitors/dot.rb	      def edge 
 edge	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rails_guides/generator.rb	    attr_reader :guides_dir, :source_dir, :output_dir, :edge, :warnings, :all
 edit	/home/bas/todone/app/controllers/todos_controller.rb	  def edit
-edit	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def edit( filename )
 edit	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/scaffold_controller/templates/controller.rb	  def edit
-edit_commit_log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def edit_commit_log
-edit_commit_log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def edit_commit_log
 egrep	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def egrep(pattern, *options)
 element	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activemodel-3.0.3/lib/active_model/naming.rb	    attr_reader :singular, :plural, :element, :collection, :partial_path, :i18n_key
 element	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/base.rb	      attr_accessor_with_default(:element_name)    { model_name.element } #:nodoc:
@@ -11846,7 +11750,6 @@ end	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_
 end	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/module/attr_internal.rb	  class << self; attr_accessor :attr_internal_naming_format end
 end	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/notifications/instrumenter.rb	      attr_reader :name, :time, :end, :transaction_id, :payload, :duration
 end	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/table.rb	    class << self; attr_accessor :engine; end
-end	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb				class << self; attr_reader :derivatives; end
 end_boundary	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/body.rb	    def end_boundary
 end_chunk	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/formatters/latex.rb	  def end_chunk(type)
 end_comment	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/compiler/node_classes/parsing_expression.rb	      def end_comment(expression)
@@ -11969,13 +11872,11 @@ erb_render	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/a
 erb_to_interpolation	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/html.rb	          def erb_to_interpolation(text, options)
 erb_trim_mode	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/template/handlers/erb.rb	        cattr_accessor :erb_trim_mode
 error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/xml_mini/nokogirisax.rb	      def error(error_message)
-error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		alias :error
 error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/nulllogger.rb	    def error(progname = nil, &block); 
 error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/shell/basic.rb	      def error(statement)
 error?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/testing/test_response.rb	    def error?
 error_contents	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/compiler.rb	    def error_contents(e, sass_filename)
 error_message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/active_model_helper.rb	      def error_message
-error_message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def error_message( msg, details='' )
 error_redirect	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/test/test_extension.rb	    def error_redirect
 error_status	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/message.rb	    def error_status
 error_status	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/part.rb	    def error_status
@@ -12272,7 +12173,6 @@ expires_now	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/ac
 explicit_config_file_must_be_readable?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/commands/write_configuration.rb	      def explicit_config_file_must_be_readable?
 explicit_sass_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/commands/update_project.rb	      def explicit_sass_files
 explicitly_unloadable_constants	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/dependencies.rb	    mattr_accessor :explicitly_unloadable_constants
-export_resources	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb				def export_resources( output_dir )
 expr	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/nodes/ordering.rb	      alias :expr
 expr	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/nodes/unary.rb	      attr_accessor :expr
 expr	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/parser.rb	      def expr
@@ -12503,7 +12403,6 @@ filter_styles	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/re
 filtered_env	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/filter_parameters.rb	      def filtered_env
 filtered_options	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activemodel-3.0.3/lib/active_model/validations/numericality.rb	      def filtered_options(value)
 filtered_parameters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/filter_parameters.rb	      def filtered_parameters
-filters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :filters
 final_recipient	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/message.rb	    def final_recipient
 final_recipient	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/part.rb	    def final_recipient
 finalize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/app_integration/rails/installer.rb	        def finalize(options = {})
@@ -12545,7 +12444,6 @@ find_all	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/actio
 find_all_tag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/testing/assertions/tag.rb	      def find_all_tag(conditions)
 find_and_delete	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/mail.rb	  def self.find_and_delete(*args, &block)
 find_and_delete	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/network/retriever_methods/base.rb	    def find_and_delete(options = {}, &block)
-find_and_load_pages	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def find_and_load_pages
 find_and_preserve	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers.rb	    def find_and_preserve(input = nil, tags = haml_buffer.options[:preserve], &block)
 find_and_preserve_with_haml_xss	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers/xss_mods.rb	      def find_and_preserve_with_haml_xss(*args, &block)
 find_and_refresh_task	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	        def find_and_refresh_task(name) 
@@ -12586,8 +12484,6 @@ find_or_create_resource_for_collection	/home/bas/todone/vendor/bundle/ruby/1.8/g
 find_or_instantiator_by_attributes	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/relation/finder_methods.rb	    def find_or_instantiator_by_attributes(match, attributes, *args)
 find_parameter_position	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/base.rb	      def find_parameter_position(multiparameter_name)
 find_parent_in	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/associations.rb	            def find_parent_in(other_join_dependency)
-find_pattern_in_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def find_pattern_in_file( regexp, file )
-find_pattern_in_pipe	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def find_pattern_in_pipe( regexp, *cmd )
 find_rakefile_location	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def find_rakefile_location
 find_resource_in_modules	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/base.rb	      def find_resource_in_modules(resource_name, module_names)
 find_root_with_flag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/engine.rb	      def find_root_with_flag(flag, default=nil)
@@ -12897,12 +12793,10 @@ gem_for_database	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib
 gem_for_ruby_19	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/test/test_helper.rb	alias :gem_for_ruby_19
 gem_spec	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/gempackagetask.rb	    attr_accessor :gem_spec
 gemfile	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/app_generator.rb	    def gemfile
-gen_message_id	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb		def gen_message_id
 generatable?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/generatable_regexp.rb	      def generatable?
 generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb	        def generate
 generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb	      def generate(options, recall = {}, extras = false)
 generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/message_verifier.rb	    def generate(value)
-generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def generate( metadata )
 generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/generatable_regexp.rb	      def generate(params = {}, recall = {}, options = {})
 generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/route.rb	    def generate(method, params = {}, recall = {}, options = {})
 generate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/route_set.rb	    def generate(method, *args) 
@@ -12913,7 +12807,6 @@ generate?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rai
 generate_cache_lookup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/compiler/node_classes/parsing_rule.rb	      def generate_cache_lookup(builder)
 generate_cache_storage	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/compiler/node_classes/parsing_rule.rb	      def generate_cache_storage(builder, result_var)
 generate_config?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/installers/manifest.rb	      def generate_config?
-generate_content	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def generate_content( input, metadata )
 generate_content_class_names	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers/action_view_extensions.rb	      alias_method :generate_content_class_names
 generate_content_id	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/fields/content_id_field.rb	    def generate_content_id
 generate_countries	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/tzdataparser.rb	    attr_accessor :generate_countries
@@ -12987,7 +12880,6 @@ get_attributes	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/
 get_best_compatible	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/encodings/transfer_encoding.rb	      def self.get_best_compatible(source_encoding, str)
 get_best_encoding	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/body.rb	    def get_best_encoding(target)
 get_binding	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/installers/template_context.rb	      def get_binding
-get_branch_names	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_branch_names
 get_callback	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/path.rb	  def get_callback(type)
 get_callback	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/path.rb	  def get_callback(type)
 get_classobj	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/main.rb	    def get_classobj(classname, lang, pi)
@@ -12996,7 +12888,6 @@ get_config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	
 get_config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  def get_config(key)
 get_config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  def get_config(key)
 get_config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def get_config(key)
-get_current_rev	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def get_current_rev
 get_cycle	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/text_helper.rb	        def get_cycle(name)
 get_display_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/elements/address.rb	    def get_display_name
 get_domain	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/elements/address.rb	    def get_domain
@@ -13004,9 +12895,6 @@ get_enhancers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erub
 get_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/exec/helpers.rb	    def get_file(exception)
 get_group_addresses	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/elements/address_list.rb	    def get_group_addresses(g)
 get_group_addresses	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/fields/common/common_address.rb	    def get_group_addresses(group_list)
-get_last_changed_rev	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_last_changed_rev( dir='.' )
-get_latest_release_tag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_latest_release_tag
-get_latest_svn_timestamp_tag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_latest_svn_timestamp_tag
 get_line	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/exec/helpers.rb	    def get_line(exception)
 get_line	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/exec.rb	      def get_line(exception)
 get_local	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/elements/address.rb	    def get_local
@@ -13019,7 +12907,6 @@ get_proxies	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinf
 get_proxy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/timezone.rb	    def self.get_proxy(identifier)
 get_raw	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  def get_raw(key)
 get_raw	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  def get_raw(key)
-get_repo_paths	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def get_repo_paths
 get_return_values	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/part.rb	    def get_return_values(key)
 get_rules	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/tzdataparser.rb	      def get_rules(ref)
 get_session	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/session/abstract_store.rb	        def get_session(env, sid)
@@ -13033,20 +12920,6 @@ get_size_for_gif	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib
 get_size_for_jpeg	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/image_size.rb	    def get_size_for_jpeg
 get_size_for_jpg	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/image_size.rb	    def get_size_for_jpg
 get_size_for_png	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/image_size.rb	    def get_size_for_png
-get_svn_diff	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_diff( *targets )
-get_svn_filelist	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_filelist( dir='.' )
-get_svn_info	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_info( dir='.' )
-get_svn_keyword_map	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_keyword_map( *files )
-get_svn_path	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_path( dir='.' )
-get_svn_repo_root	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_repo_root( dir='.' )
-get_svn_rev	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_rev( dir='.' )
-get_svn_status	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_status( *targets )
-get_svn_url	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def get_svn_url( dir='.' )
-get_tags	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def get_tags
-get_target_args	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def get_target_args
-get_tip_info	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def get_tip_info
-get_unknown_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def get_unknown_files
-get_vcs_rev	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb		def get_vcs_rev( dir='.' )
 get_via_redirect	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/testing/integration.rb	      def get_via_redirect(path, parameters = nil, headers = nil)
 get_zone	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/time/zones.rb	      def get_zone(time_zone)
 getbyte	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/string/conversions.rb	  alias_method :getbyte
@@ -13181,11 +13054,9 @@ handle_no_method_error?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6
 handle_no_task_error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	      def handle_no_task_error(task) 
 handle_options	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/cookies.rb	      def handle_options(options) 
 handle_options	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def handle_options
-handle_page_callback	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def handle_page_callback( path, page, from=nil )
 handle_positional_args	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb	        def handle_positional_args(options)
 handle_response	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/connection.rb	      def handle_response(response)
 handle_ruby_multiline	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    def handle_ruby_multiline(text)
-handle_section_callback	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def handle_section_callback( path, section, from=nil, &builder )
 handler	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/template.rb	    attr_reader :source, :identifier, :handler, :virtual_path, :formats,
 handler	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/contrib/erubis-run.rb	   def handler(req)
 handler	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/erb.rb	      def handler
@@ -13334,7 +13205,6 @@ helpers_dir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/ac
 helpers_dir=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/helpers.rb	      def helpers_dir=(value)
 hex	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/secure_random.rb	      def self.hex(n=nil)
 hex_str	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/color.rb	    def hex_str
-hg_ignore_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def hg_ignore_files( *pathnames )
 hidden?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/task.rb	    def hidden?
 hidden?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/task.rb	    def hidden?
 hidden_actions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/abstract_controller/base.rb	      def hidden_actions
@@ -13347,7 +13217,6 @@ hide	/home/bas/todone/vendor/bundle/ruby/1.8/gems/builder-2.1.2/lib/blankslate.r
 hide_action	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/hide_actions.rb	      def hide_action(*args)
 hide_in_sass	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/less.rb	      attr_accessor :hide_in_sass
 hide_namespaces	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators.rb	      def hide_namespaces(*namespaces)
-hierarchy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :hierarchy
 highlight	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/text_helper.rb	      def highlight(text, phrases, *args)
 history	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/dependencies.rb	    mattr_accessor :history
 hook!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/dependencies.rb	    def hook!
@@ -13432,8 +13301,6 @@ human_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/par
 human_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/parser/option.rb	    def human_name
 humanize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/string/inflections.rb	  def humanize
 humanize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/inflector/inflections.rb	    def humanize(lower_case_and_underscored_word)
-humanize_file_list	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def humanize_file_list( list, indent=FILE_INDENT )
-humanize_file_list	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def humanize_file_list( list, indent=FILE_INDENT )
 humans	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/inflector/inflections.rb	      attr_reader :plurals, :singulars, :uncountables, :humans
 i18n_config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/abstract_controller/rendering.rb	    attr_reader :i18n_config, :lookup_context
 i18n_interpolate	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/backend/interpolation_compiler.rb	              def i18n_interpolate(v = {})
@@ -13541,7 +13408,6 @@ in_rails_application_subdirectory?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/
 in_reply_to	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/message.rb	    def in_reply_to( val = nil )
 in_reply_to=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/message.rb	    def in_reply_to=( val )
 in_root	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/actions.rb	    def in_root
-in_subdirectory	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def in_subdirectory( subdir )
 in_time_zone	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/date_time/zones.rb	  def in_time_zone(zone = ::Time.zone)
 in_time_zone	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/time/zones.rb	  def in_time_zone(zone = ::Time.zone)
 in_time_zone	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/time_with_zone.rb	    def in_time_zone(new_zone = ::Time.zone)
@@ -13634,7 +13500,6 @@ index_exists?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/li
 index_extensions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	      def index_extensions(mime_type) 
 index_extensions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	    def index_extensions(mime_type) 
 index_helper	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/named_base.rb	        def index_helper
-index_html	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		attr_accessor :index_html
 index_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/abstract/schema_statements.rb	      def index_name(table_name, options) 
 index_name_exists?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/abstract/schema_statements.rb	      def index_name_exists?(table_name, index_name, default)
 index_name_length	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/abstract/database_limits.rb	      def index_name_length
@@ -14231,11 +14096,6 @@ initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb
 initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def initialize(ardir_root, config)
 initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def initialize(config, srcroot, objroot)
 initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def initialize(rbconfig)
-initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def initialize( *args )
-initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def initialize( catalog, sourcefile, layouts_dir, basepath='.' )
-initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def initialize( name=:manual )
-initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def initialize( sourcedir, layoutsdir )			
-initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		def initialize( name=:verify )
 initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/polyglot-0.3.1/lib/polyglot.rb	    def initialize 
 initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/abstract/handler.rb	      def initialize(app, realm=nil, &authenticator)
 initialize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/abstract/request.rb	      def initialize(env)
@@ -14686,7 +14546,6 @@ install_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.
 install_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  def install_files(list, dest, mode)
 install_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def install_files(list, dest, mode)
 install_from_github	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/examples/downloader.rb	def install_from_github(user, project, ext_name, branch = "master", working_directory = Dir.pwd)
-install_gems	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/dependencies.rb	def install_gems( gems )
 install_helpers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb	      def install_helpers(destinations = [ActionController::Base, ActionView::Base], regenerate_code = false)
 install_html	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/installers/base.rb	      def install_html(from, to, options)
 install_location_for_html	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/app_integration/rails/installer.rb	        def install_location_for_html(to, options)
@@ -15015,8 +14874,6 @@ latitude	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/c
 latitude	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/tzdataparser.rb	    attr_reader :latitude
 layout	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/abstract_controller/layouts.rb	      def layout(layout, conditions = {})
 layout	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/testing/test_response.rb	      def layout
-layouts_dir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :layouts_dir
-layoutsdir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :layoutsdir
 lazy_default	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/parser/option.rb	    attr_reader :aliases, :group, :lazy_default
 lazy_require	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/filters.rb	      def lazy_require(*reqs)
 lchmod	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/pathname.rb	    def lchmod(mode)
@@ -15166,8 +15023,6 @@ load_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/sass/eng
 load_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/backend/base.rb	        def load_file(filename)
 load_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/strexp/tokenizer.rb	  def load_file( filename )
 load_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/vendor/regin/regin/tokenizer.rb	  def load_file( filename )
-load_filter_libraries	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def load_filter_libraries( libdir )
-load_filters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def load_filters( filterlist )
 load_fixtures	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	      def load_fixtures
 load_for_read!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/session/abstract_store.rb	          def load_for_read!
 load_for_write!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/session/abstract_store.rb	          def load_for_write!
@@ -15297,14 +15152,11 @@ log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/dependencies.rb	      def log(msg)
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/logger.rb	    def log(msg)
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/logger.rb	    def log(msg)
-log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb			def log
-log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def log( *msg )
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/commonlogger.rb	    def log(env, status, header, began_at)
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/actions.rb	        def log(*args)
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/app_generator.rb	    def log
 log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/sys.rb	  def log(msg)
 log_activity	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/dependencies.rb	    mattr_accessor :log_activity
-log_and_run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def log_and_run( logpath, *cmd )
 log_call	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/dependencies.rb	      def log_call(*args)
 log_error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/show_exceptions.rb	      def log_error(exception)
 log_level	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/application/configuration.rb	      def log_level
@@ -15420,20 +15272,10 @@ make	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	  def 
 make	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  def make(task = '')
 make	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  def make(task = '')
 make	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def make(task = nil)
-make_changelog	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def make_changelog
-make_changelog	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb		def make_changelog
-make_commit_log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/hg.rb			def make_commit_log
-make_index_html	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def make_index_html
-make_new_tag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def make_new_tag( time=Time.now )
 make_path	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/runtime/interval_skip_list/interval_skip_list.rb	  def make_path
-make_prompt_string	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def make_prompt_string( string )
 make_rewindable	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/rewindable_input.rb	    def make_rewindable
 make_sources	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def make_sources(task_name, extensions)
-make_svn_changelog	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def make_svn_changelog( dir='.' )
-make_svn_commit_log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def make_svn_commit_log( dir='.' )
-make_svn_log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def make_svn_log( dir='.', start='PREV', finish='HEAD' )
 make_test_case_available_to_view!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/test_case.rb	      def make_test_case_available_to_view!
-make_xml_svn_log	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def make_xml_svn_log( dir='.', start='PREV', finish='HEAD' )
 makedirs	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/ftptools.rb	    def makedirs(path)
 makedirs	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/sys.rb	  def makedirs(*dirs)
 manifest	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/frameworks.rb	      def manifest(pattern, options = {})
@@ -15636,7 +15478,6 @@ message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action
 message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/http_mock.rb	    attr_accessor :body, :message, :code, :headers
 message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/testing/deprecation.rb	        alias_method :message
 message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/testing/isolation.rb	      attr_reader :message, :backtrace
-message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def message( *msg )
 message	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def message
 message_content_type	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/message.rb	    def message_content_type
 message_id	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/elements/message_ids_element.rb	    def message_id
@@ -15965,8 +15806,6 @@ name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/fields/co
 name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/fields/message_id_field.rb	    def name
 name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/fields/resent_message_id_field.rb	    def name
 name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	    attr_reader :name
-name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :name
-name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		attr_accessor :name
 name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/generatable_regexp.rb	      attr_reader :name, :requirement
 name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/route.rb	    attr_reader :name
 name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/vendor/regin/regin/group.rb	    attr_reader :expression, :quantifier, :capture, :index, :name
@@ -16211,7 +16050,6 @@ nodoc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/type
 nodoc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	      def attr_accessor(*) #:nodoc:
 nodoc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	      def attr_reader(*) #:nodoc:
 nodoc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/base.rb	      def attr_writer(*) #:nodoc:
-noecho	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def noecho( masked=false )
 noise	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/backtrace_cleaner.rb	      def noise(backtrace)
 non_haml	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers.rb	    def non_haml
 nonce	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/http_authentication.rb	      def nonce(secret_key, time = Time.now)
@@ -16372,7 +16210,6 @@ on_base	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activemodel-3.0.3/lib/activ
 on_cdata_block	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/xml_mini/libxmlsax.rb	      alias_method :on_cdata_block
 on_characters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/xml_mini/libxmlsax.rb	      def on_characters(string)
 on_comment	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/gettext/po_parser.rb	  def on_comment(comment)
-on_comment	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/documentation.rb				def on_comment(comment)
 on_conflict_behavior	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/actions/create_file.rb	        def on_conflict_behavior(&block)
 on_conflict_behavior	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/actions/empty_directory.rb	        def on_conflict_behavior(&block)
 on_day	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/tzdataparser.rb	    attr_reader :on_day
@@ -16628,7 +16465,6 @@ page	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_vi
 page_cache_file	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/caching/pages.rb	          def page_cache_file(path)
 page_cache_path	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/caching/pages.rb	          def page_cache_path(path)
 page_class	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers/action_view_extensions.rb	      def page_class
-pages	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :pages
 param	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/examples/lambda_calculus/lambda_calculus.rb	    def param
 param_encode_language	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/configuration.rb	    def param_encode_language(value = nil)
 param_hash	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/parsers/content_disposition.rb	      def param_hash
@@ -16938,7 +16774,6 @@ path_config?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	
 path_config?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	    def path_config?(name)
 path_elements	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/tzdataparser.rb	    attr_reader :path_elements
 path_for_action	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/mapper.rb	          def path_for_action(action, path)
-path_index	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :path_index
 path_info	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/request.rb	    def path_info;       
 path_info=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/request.rb	    def path_info=(s);   
 path_parameters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/parameters.rb	      def path_parameters
@@ -17040,7 +16875,6 @@ pi	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/converte
 piecewise	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/color.rb	    def piecewise(other, operation)
 pipe?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/pathname.rb	    def pipe?
 pipe?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/pathname.rb	    def pipe?
-pipeto	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def pipeto( *cmd )
 pk_and_sequence_for	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/mysql_adapter.rb	      def pk_and_sequence_for(table) 
 pk_and_sequence_for	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/postgresql_adapter.rb	      def pk_and_sequence_for(table) 
 place_marker_on_inbound_path	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/runtime/interval_skip_list/node.rb	    def place_marker_on_inbound_path(marker, level, terminus)
@@ -17291,9 +17125,6 @@ process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action
 process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/testing/integration.rb	        def process(method, path, parameters = nil, rack_environment = nil)
 process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/engine.rb	    def process(input, context=nil, filename=nil)
 process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/plugin/rails.rb	        def process(*args)
-process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb				def process( source, page, metadata )
-process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def process( source, *ignored )
-process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def process( source, page, metadata )
 process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/handler/mongrel.rb	      def process(request, response)
 process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/assets/javascripts/syntaxhighlighter/shBrushXml.js	function process(match, regexInfo)
 process	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rails_guides/indexer.rb	    def process(string, current_level=3, counters=[1])
@@ -17351,14 +17182,9 @@ projections	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/nod
 projectize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/commands/project_base.rb	      def projectize(path)
 projectize	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/configuration/helpers.rb	      def projectize(path, project_path = nil)
 promote_markers	/home/bas/todone/vendor/bundle/ruby/1.8/gems/treetop-1.4.9/lib/treetop/runtime/interval_skip_list/node.rb	    def promote_markers(path)
-prompt	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def prompt( prompt_string, failure_msg="Try again." ) 
 prompt_css_dir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/app_integration/rails/installer.rb	        def prompt_css_dir
-prompt_for_confirmation	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		alias :prompt_for_confirmation
-prompt_for_multiple_values	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def prompt_for_multiple_values( label, default=nil )
-prompt_for_password	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def prompt_for_password( prompt="Password: " )
 prompt_option_tag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/date_helper.rb	        def prompt_option_tag(type, options)
 prompt_sass_dir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/app_integration/rails/installer.rb	        def prompt_sass_dir
-prompt_with_default	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def prompt_with_default( prompt_string, default, failure_msg="Try again." )
 prop_count	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/stats.rb	      attr_accessor :rule_count, :prop_count, :mixin_def_count, :mixin_count
 prop_count	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/stats.rb	      attr_accessor :selector_count, :prop_count
 prop_count	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/stats.rb	      def prop_count
@@ -17415,7 +17241,6 @@ push_d	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/com
 push_flat	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    def push_flat(line)
 push_flat_script	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    def push_flat_script(text, options = {})
 push_frame	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/environment.rb	    def push_frame(frame_info)
-push_gem	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb		def push_gem( path, gemhost )
 push_merged_text	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    def push_merged_text(text, tab_change = 0, indent = true)
 push_plain	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    def push_plain(text, options = {})
 push_script	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/precompiler.rb	    def push_script(text, opts = {})
@@ -17527,8 +17352,6 @@ quoted_table_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.
 quoted_table_name	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	      def quoted_table_name
 quoted_true	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/abstract/quoting.rb	      def quoted_true
 quoted_true	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/mysql_adapter.rb	      def quoted_true
-quotelist	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def quotelist( *args )
-quotelist	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def quotelist( *args )
 rack_mock_session	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-test-0.5.6/lib/rack/test/methods.rb	      def rack_mock_session(name = :default) 
 rack_test_session	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-test-0.5.6/lib/rack/test/methods.rb	      def rack_test_session(name = :default) 
 rackup	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/test/testrequest.rb	    def rackup
@@ -17560,7 +17383,6 @@ raise_nil_warning_for	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport
 raise_on_session_data_overflow!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/session_store.rb	        def raise_on_session_data_overflow!
 raise_on_type_mismatch	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/associations/association_proxy.rb	        def raise_on_type_mismatch(record)
 raise_routing_error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/routing/route_set.rb	        def raise_routing_error
-rake	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def rake( *targets )
 rake	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/actions.rb	      def rake(command, options={})
 rake	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/test/session_functional.rb	  def rake(*option_list)
 rake_check_options	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	  def rake_check_options(options, *optdecl)
@@ -17631,7 +17453,6 @@ read	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/test/spec_lint.rb	 
 read_attribute	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/attribute_methods/read.rb	      def read_attribute(attr_name)
 read_attribute_before_type_cast	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/attribute_methods/before_type_cast.rb	      def read_attribute_before_type_cast(attr_name)
 read_attribute_for_validation	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activemodel-3.0.3/lib/active_model/validations.rb	    alias :read_attribute_for_validation
-read_command_output	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def read_command_output( cmd, *args )
 read_csv_fixture_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	    def read_csv_fixture_files
 read_entry	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache.rb	        def read_entry(key, options) 
 read_entry	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/file_store.rb	        def read_entry(key, options)
@@ -17646,7 +17467,6 @@ read_fragment	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/
 read_inheritable_attribute	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/class/inheritable_attributes.rb	  def read_inheritable_attribute(key)
 read_multi	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache.rb	      def read_multi(*names)
 read_multi	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/mem_cache_store.rb	      def read_multi(*names)
-read_page_config	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def read_page_config( source )
 read_token	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/script/lexer.rb	      def read_token
 read_version	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/version.rb	    def read_version
 read_without_default	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/configuration/inheritance.rb	        def read_without_default(attribute)
@@ -17661,7 +17481,6 @@ readbyte	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass
 reader_method	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/aggregations.rb	        def reader_method(name, class_name, mapping, allow_nil, constructor)
 readframe	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/image_size.rb	        def readframe; 
 readint	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/sass_extensions/functions/image_size.rb	        def readint; 
-readline	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def readline( text )
 readlines	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/pathname.rb	    def readlines(sep = $/)
 readlines	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/pathname.rb	    def readlines(sep = $/)
 readlink	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm/fssm/pathname.rb	    def readlink
@@ -18439,8 +18258,6 @@ run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fss
 run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/backends/inotify.rb	    def run
 run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/backends/polling.rb	    def run
 run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/monitor.rb	  def run
-run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def run( *cmd )
-run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def run( *cmd )
 run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/builder.rb	    def run(app)
 run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/handler/cgi.rb	      def self.run(app, options=nil)
 run	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/handler/fastcgi.rb	      def self.run(app, options={})
@@ -19074,15 +18891,12 @@ setup_dir_lib	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb
 setup_fixture_accessors	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	      def setup_fixture_accessors(table_names = nil)
 setup_fixtures	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	    def setup_fixtures
 setup_info	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/test/tc_info_timezone.rb	    attr_reader :setup_info
-setup_page_conversion_tasks	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def setup_page_conversion_tasks( sourcedir, outputdir, catalog )
 setup_rb_error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	def setup_rb_error(msg)
 setup_rb_error	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	def setup_rb_error(msg)
-setup_resource_copy_tasks	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def setup_resource_copy_tasks( resourcedir, outputdir )
 setup_rufus_tokyo	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/test/test_helper.rb	  def setup_rufus_tokyo
 setup_sessid_compatibility!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/session_store.rb	          def setup_sessid_compatibility!
 setup_subscriptions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/test_case.rb	    def setup_subscriptions
 setup_template_location	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/app_integration/merb/runtime.rb	  def self.setup_template_location
-setup_testing_db	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def setup_testing_db( description )
 setup_time_proc_translations	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/tests/localization/procs.rb	          def setup_time_proc_translations
 setup_time_translations	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/tests/localization/time.rb	          def setup_time_translations
 setup_with_controller	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/test_case.rb	      def setup_with_controller
@@ -19128,7 +18942,6 @@ show_src	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/he
 show_src=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/helpers/rails_helper.rb	      def self.show_src=(flag)
 show_variable	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/connection_adapters/mysql_adapter.rb	      def show_variable(name)
 shutdown	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/handler/webrick.rb	      def self.shutdown
-sign_in_to_rubygems	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb		def sign_in_to_rubygems
 signature?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	    def signature?
 signed	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/cookies.rb	      def signed
 signed	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/cookies.rb	      def signed
@@ -19236,7 +19049,6 @@ something_random	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/ma
 something_that_uses_haml_concat	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/helper_test.rb	  def something_that_uses_haml_concat
 sort!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/parts_list.rb	    def sort!(order)
 sortBy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/templates/public/javascripts/prototype.js	function sortBy(iterator, context)
-sort_hierarchy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def sort_hierarchy( hierarchy )
 sort_parts!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/body.rb	    def sort_parts!
 sortable	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/scriptaculous_helper.rb	          def sortable(id, options = {})
 sortable_element	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/scriptaculous_helper.rb	      def sortable_element(element_id, options = {})
@@ -19244,7 +19056,6 @@ sortable_element_js	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.
 sorted_by_frequency	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6.13/lib/rack/mount/analysis/histogram.rb	      def sorted_by_frequency
 sorted_sass_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/commands/project_stats.rb	      def sorted_sass_files(compiler)
 source	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/template.rb	    attr_reader :source, :identifier, :handler, :virtual_path, :formats,
-source	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :source
 source	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def source
 source	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/actions/directory.rb	      attr_reader :source
 source_dir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rails_guides/generator.rb	    attr_reader :guides_dir, :source_dir, :output_dir, :edge, :warnings, :all
@@ -19263,8 +19074,6 @@ source_reflection_names	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecor
 source_root	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/base.rb	      def self.source_root(path=nil)
 source_root	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/actions.rb	      def source_root(path=nil)
 source_root	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/spec/spec_helper.rb	  def source_root
-sourcedir	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :sourcedir
-sourcefile	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :sourcefile
 sources	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/commands/plugin.rb	    attr_reader :environment, :script_name, :sources
 sources	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    attr_writer :sources
 sources	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def sources
@@ -19390,7 +19199,6 @@ ssl_options	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/li
 ssl_options	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/connection.rb	    attr_reader :site, :user, :password, :auth_type, :timeout, :proxy, :ssl_options
 ssl_options=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/base.rb	      def ssl_options=(opts={})
 ssl_options=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/connection.rb	    def ssl_options=(opts={})
-ssl_start	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/publishing.rb		def ssl_start( helo='localhost.localdomain', user=nil, secret=nil, authtype=nil )
 stack	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/environment.rb	    def stack
 stale?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/metal/conditional_get.rb	    def stale?(options)
 stale?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/auth/digest/nonce.rb	        def stale?
@@ -19464,7 +19272,6 @@ stop	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/vendor/fssm
 stop	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/vendor/fssm/lib/fssm/backends/rubycocoa/fsevents.rb	    def stop
 stop	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/templates/public/javascripts/prototype.js	function stop(event)
 stopObserving	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/generators/rails/app/templates/public/javascripts/prototype.js	function stopObserving(element, eventName, handler)
-stop_existing_postmasters	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def stop_existing_postmasters
 stopped?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def stopped?
 store	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/hash_with_indifferent_access.rb	    alias_method :store
 store	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/backend/key_value.rb	        attr_accessor :store
@@ -19652,8 +19459,6 @@ suppress_warnings	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i1
 surround	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers.rb	    def surround(front, back = front, &block)
 surround_with_haml_xss	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/haml/helpers/xss_mods.rb	      def surround_with_haml_xss(front, back = front, &block)
 svn_command	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/commands/plugin.rb	    def svn_command(cmd, options = {})
-svn_ignore_files	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def svn_ignore_files( *pathnames )
-svn_ls	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/svn.rb			def svn_ls( url=nil )
 svn_url?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/commands/plugin.rb	  def svn_url?
 swap	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/middleware/stack.rb	    def swap(target, *args, &block)
 swap	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/configuration.rb	      def swap(*args, &block)
@@ -19848,7 +19653,6 @@ teardown	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/test/tc_link
 teardown_fixtures	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/fixtures.rb	    def teardown_fixtures
 teardown_fixtures	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/test/compass_test.rb	  def teardown_fixtures(*project_names)
 teardown_subscriptions	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_controller/test_case.rb	    def teardown_subscriptions
-teardown_testing_db	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def teardown_testing_db( conn )
 telephone_field	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/form_helper.rb	      def telephone_field(object_name, method, options = {})
 telephone_field_tag	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/form_tag_helper.rb	      def telephone_field_tag(name, value = nil, options = {})
 tempfile	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/upload.rb	      attr_accessor :original_filename, :content_type, :tempfile, :headers
@@ -21913,7 +21717,6 @@ thorfiles	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/runn
 thorfiles_relevant_to	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/runner.rb	    def thorfiles_relevant_to(meth)
 thread_local_key	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/cache/strategy/local_cache.rb	          def thread_local_key
 threadsafe!	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/application/configuration.rb	      def threadsafe!
-threshold	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		attr_accessor :threshold
 through_reflection	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	      def through_reflection
 through_reflection	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	      def through_reflection
 through_reflection_primary_key	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/reflection.rb	      def through_reflection_primary_key
@@ -21966,9 +21769,7 @@ timezone	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/t
 timezones	/home/bas/todone/vendor/bundle/ruby/1.8/gems/tzinfo-0.3.23/lib/tzinfo/timezone_index_definition.rb	      def timezones
 tip	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rails_guides/textile_extensions.rb	    def tip(body)
 title	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/mocks/article.rb	  attr_accessor :id, :title, :body
-title	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def title
 title	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/rdoctask.rb	    attr_accessor :title
-title_index	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :title_index
 title_to_idx	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/guides/rails_guides/indexer.rb	    def title_to_idx(title)
 titlecase	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/string/inflections.rb	  alias_method :titlecase
 titlecase	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/multibyte/chars.rb	      alias_method :titlecase
@@ -22318,7 +22119,6 @@ to_src	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/wa
 to_src	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/tree/while_node.rb	    def to_src(tabs, opts, fmt)
 to_str	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/mime_type.rb	    def to_str
 to_str	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/lib/mime/types.rb	    def to_str
-to_str	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/191_compat.rb			def to_str
 to_switches	/home/bas/todone/vendor/bundle/ruby/1.8/gems/thor-0.14.6/lib/thor/parser/options.rb	    def self.to_switches(options)
 to_sym	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/mime_type.rb	    def to_sym
 to_sym	/home/bas/todone/vendor/bundle/ruby/1.8/gems/i18n-0.5.0/lib/i18n/locale/tag/rfc4646.rb	        def to_sym
@@ -22394,8 +22194,6 @@ tr_close	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redclot
 tr_close	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/formatters/latex.rb	  def tr_close(opts)
 tr_open	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/formatters/html.rb	  def tr_open(opts)
 tr_open	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/formatters/latex.rb	  def tr_open(opts)
-trace	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def trace( *msg )
-trace	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/spec/lib/helpers.rb		def trace( *msg )
 trace?	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-1.2.1/lib/rack/request.rb	    def trace?;   
 trace_rule	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	    def trace_rule(level, message)
 trademark	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/lib/redcloth/formatters/html.rb	  def trademark(opts)
@@ -22451,8 +22249,6 @@ traverse	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	  
 traverse	/home/bas/todone/vendor/bundle/ruby/1.8/gems/abstract-1.0.0/setup.rb	  def traverse(task, rel, mid)
 traverse	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/setup.rb	  def traverse(task, rel, mid)
 traverse	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  def traverse(task, rel, mid)
-traverse_hierarchy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def traverse_hierarchy( path, hash, from=nil, &builder )
-traverse_page_hierarchy	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			def traverse_page_hierarchy( from=nil, &builder ) 
 trc	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/helper_test.rb	      def trc(collection, &block)
 tree	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/stats.rb	      def tree
 tree	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/engine.rb	    def tree(arr, i = 0)
@@ -22625,11 +22421,9 @@ unstructured	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/p
 unsubscribe	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/notifications.rb	      def unsubscribe(*args)
 unsubscribe	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/notifications/fanout.rb	      def unsubscribe(subscriber)
 untabify	/home/bas/todone/vendor/bundle/ruby/1.8/gems/erubis-2.6.6/lib/erubis/main.rb	    def untabify(str, width=8)
-untar	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def untar( tarfile, targetdir )
 until	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/abstract_controller/base.rb	        controller = controller.superclass until 
 until	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/core_ext/numeric/time.rb	  alias :until
 until	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/duration.rb	    alias :until
-unzip	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def unzip( zipfile, targetdir, *files )
 up	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/migration.rb	      def up(migrations_path, target_version = nil)
 up	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/rails/generators/active_record/migration/templates/migration.rb	  def self.up
 up	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/rails/generators/active_record/model/templates/migration.rb	  def self.up
@@ -22710,7 +22504,6 @@ upper_quartile_limit	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-mount-0.6
 uppercase_mapping	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/multibyte/unicode.rb	        attr_accessor :code, :combining_class, :decomp_type, :decomp_mapping, :uppercase_mapping, :lowercase_mapping
 uri	/home/bas/todone/vendor/bundle/ruby/1.8/gems/railties-3.0.3/lib/rails/commands/plugin.rb	  attr_reader :name, :uri
 uri_escape	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/utilities.rb	    def uri_escape( str )
-uri_index	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/manual.rb			attr_reader :uri_index
 uri_parser	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activeresource-3.0.3/lib/active_resource/base.rb	        def uri_parser
 uri_unescape	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mail-2.2.13/lib/mail/utilities.rb	    def uri_unescape( str )
 url	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_dispatch/http/url.rb	      def url
@@ -22989,7 +22782,6 @@ verb	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rack-test-0.5.6/spec/rack/test
 verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/RedCloth-4.2.3/setup.rb	  attr_writer :verbose
 verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activerecord-3.0.3/lib/active_record/migration.rb	    cattr_accessor :verbose
 verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/mime-types-1.16/setup.rb	  attr_writer :verbose
-verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/verifytask.rb		attr_accessor :verbose
 verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake.rb	  def verbose(value=nil)
 verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/ftptools.rb	    attr_accessor :verbose
 verbose	/home/bas/todone/vendor/bundle/ruby/1.8/gems/rake-0.8.7/lib/rake/contrib/sys.rb	  def verbose(&block)
@@ -23276,8 +23068,6 @@ visitor	/home/bas/todone/vendor/bundle/ruby/1.8/gems/compass-0.10.6/lib/compass/
 visitor_for	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/visitors.rb	    def self.visitor_for 
 visual_effect	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/scriptaculous_helper.rb	          def visual_effect(name, id = nil, options = {})
 visual_effect	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/scriptaculous_helper.rb	      def visual_effect(name, element_id = false, js_options = {})
-vvec	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/ext/extconf.rb	def vvec( version )
-vvec	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def vvec( ver )
 wacky_form	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/test/haml/helper_test.rb	  def wacky_form
 wait	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/log_subscriber/test_helper.rb	      def wait
 wait	/home/bas/todone/vendor/bundle/ruby/1.8/gems/activesupport-3.0.3/lib/active_support/notifications/fanout.rb	      def wait
@@ -23329,7 +23119,6 @@ wheres	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/nodes/up
 wheres	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/select_manager.rb	    def wheres
 wheres=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/delete_manager.rb	    def wheres= 
 wheres=	/home/bas/todone/vendor/bundle/ruby/1.8/gems/arel-2.0.6/lib/arel/update_manager.rb	    def wheres= 
-which	/home/bas/todone/vendor/bundle/ruby/1.8/gems/pg-0.10.0/rake/helpers.rb		def which( program )
 while_directive	/home/bas/todone/vendor/bundle/ruby/1.8/gems/haml-3.0.25/lib/sass/scss/parser.rb	      def while_directive
 white_list_sanitizer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/sanitize_helper.rb	        attr_writer :full_sanitizer, :link_sanitizer, :white_list_sanitizer
 white_list_sanitizer	/home/bas/todone/vendor/bundle/ruby/1.8/gems/actionpack-3.0.3/lib/action_view/helpers/sanitize_helper.rb	        def white_list_sanitizer

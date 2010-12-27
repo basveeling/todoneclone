@@ -32,7 +32,7 @@ before "deploy:migrate", "deploy:bundle_install"
 
 namespace :deploy do
   task :bundle_install do
-    run "bundle install"
+    run "cd #{current_release} && bundle install --deployment"
   end
   task :start, :roles => :app do
     run "touch #{current_release}/tmp/restart.txt"
