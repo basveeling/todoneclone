@@ -28,7 +28,12 @@ server "ssh.railscluster.nl", :app, :web, :db, :primary => true
 # if you're still using the script/reapear helper you will need
 # these http://github.com/rails/irs_process_scripts
 
+before "deploy:migrate", "deploy:bundle_install"
+
 namespace :deploy do
+  task :bundle_install do
+    run "bundle install"
+  end
   task :start, :roles => :app do
     run "touch #{current_release}/tmp/restart.txt"
   end

@@ -44,7 +44,6 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    RedCloth (4.2.3)
     abstract (1.0.0)
     arel (2.0.6)
     builder (2.1.2)
@@ -78,7 +77,6 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  RedCloth
   compass (>= 0.10.6)
   haml
   pg
