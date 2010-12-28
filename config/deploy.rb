@@ -29,7 +29,7 @@ server "ssh.railscluster.nl", :app, :web, :db, :primary => true
 # these http://github.com/rails/irs_process_scripts
 
 before "deploy:migrate", "deploy:bundle_install"
-
+after "deploy", "deploy:bundle_install"
 namespace :deploy do
   task :bundle_install do
     run "cd #{current_release} && bundle install --deployment"
